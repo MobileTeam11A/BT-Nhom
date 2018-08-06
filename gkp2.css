@@ -1,0 +1,125 @@
+body
+{
+	font-family: Tahoma, Arial;
+	font-size: 13px;
+	margin:0px;
+	padding:0px;
+	color: black;
+}
+#layout
+{
+	width:900px;
+	margin:auto;
+	border: 1px solid blue;
+}
+#header
+{
+	width:880px;
+	background:lightskyblue;
+	color: white;
+	height:60px;	
+	line-height:30px;
+	padding:10px;
+	border-bottom: 1px solid blue;
+}
+#header h1
+{
+	text-shadow: 5px 5px 5px red;
+	text-align:center;
+	color:white; 
+	
+}
+#section h2
+{
+	text-align: center;
+	
+}
+#nav{
+	width:900px;
+	height:50px;
+	border-bottom:1px solid blue;
+}
+#aside
+{
+	width:580px;
+	float:left;
+	padding:10px;
+	
+}
+#aside img{
+	float:left;
+	border: 1px solid blue;
+	border-radius:15px;
+	
+}
+#aside p{
+	color:skyblue ;
+	padding-left:300px;
+}
+#section
+{
+	width:280px;
+	float:right;
+	padding:10px;
+		
+}
+.f1
+{
+	line-height:10px;
+	border: 1px solid blue;
+	border-radius:15px;
+	padding:10px;
+	
+
+}
+.f1 a{
+		text-decoration:none;
+}
+.f1 h2{
+	background:skyblue;
+	color:white;
+	border-radius: 15px;
+	height:25px;
+	line-height:25px;
+}
+#footer 
+{
+	clear:both;
+	background:skyblue;
+	width:900px;
+	color:white;
+	height:80px;
+	line-height:80px;
+	text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
